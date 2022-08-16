@@ -4,14 +4,14 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            Manal Shah
 tagline:          'Start here, make a difference'
 description:      'Raised in India, now based in New York, USA. CS Grad @StonyBrook'
-url:              http://mbshah3.github.io
-baseurl:          /
+url:              http://mbshah3.github.io/
+# baseurl:          /
 
 author:
   name:           'Manal Shah'
