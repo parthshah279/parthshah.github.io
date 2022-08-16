@@ -32,16 +32,16 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'EB Garamond', serif;
 }
 @media (min-width: 48em) {
   html {
     font-size: 16px;
   }
 }
-@media (min-width: 58em) {
+@media (min-width: 64em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -65,8 +65,8 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
-    text-align: left;
+    width: 24rem;
+    text-align: right;
   }
 }
 
@@ -128,15 +128,15 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
+    max-width: 44rem;
+    margin-left: 26rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 26rem;
     margin-right: 4rem;
   }
 }
@@ -176,6 +176,15 @@ a.sidebar-nav-item:focus {
  */
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
+
+/* Custom */
+.theme-base-12 .sidebar {
+  background-color: #090561;
+}
+.theme-base-12 .content a,
+.theme-base-12 .related-posts li a:hover {
+  color: #090561;
+}
 
 /* Red */
 .theme-base-08 .sidebar {
