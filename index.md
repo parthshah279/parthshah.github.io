@@ -40,9 +40,9 @@ __Jaipur, India__ <br>
 
 __New York Life Insurance Co.__<br>
 __New York, USA__<br>
-<p class="full-width"><img src="/pic004.jpg" style="width:5rem;height:5rem" align="left"/></p><br>
+<p class="full-width"><img src="/pic004.jpg" style="width:5rem;height:5rem" align="left"/></p>
 
- __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br>
+ __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
 
 - Built a web application on Domino Data Lab using Web-HDFS API and Dash framework for Mortality Risk Classification model project to automate the model validation and generate reason code analytics.
 - Worked on Mortality Risk Classification model wrapper and corner case testing.
