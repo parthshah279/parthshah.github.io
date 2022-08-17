@@ -23,19 +23,19 @@ __Stony Brook University (2021 - Present)__<br>
 __New York, USA__ <br>
 <p class="full-width"><img src="/public/pic002.jpg" style="width:8rem;height:8rem;" align="left"/></p>
 
-__Master of Science in Computer Science__ <br>
+ __Master of Science in Computer Science__ <br>
 
-GPA - __3.86__ /4.00 <br>
-Courses - Machine Learning, Distribted Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br><br><br>
+ GPA - __3.86__ /4.00 <br>
+ Courses - Machine Learning, Distribted Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br><br><br>
 
 __Malaviya National Institute of Technology (2014 - 2018)__<br>
 __Jaipur, India__ <br>
 <p class="full-width"><img src="/public/pic003.jpg" style="width:8rem;height:8rem;" align="left"/></p>
 
-__Bachelor of Technology in Computer Science and Engineering__ <br>
+ __Bachelor of Technology in Computer Science and Engineering__ <br>
 
-CGPA - __8.31__ / 10.00 <br>
-Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br><br><br>
+ CGPA - __8.31__ / 10.00 <br>
+ Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br><br><br>
 
 ## Work Experience
 
@@ -43,7 +43,7 @@ __New York Life Insurance Co.__<br>
 __New York, USA__<br>
 <p class="full-width"><img src="/pic004.jpg" style="width:8rem;height:8rem;" align="left"/></p><br><br>
 
-__Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
+ __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
 
 - Built a web application on Domino Data Lab using Web-HDFS API and Dash framework for Mortality Risk Classification model project to automate the model validation and generate reason code analytics.
 - Worked on Mortality Risk Classification model wrapper and corner case testing.
@@ -54,11 +54,11 @@ __JP Morgan Chase & Co.__<br>
 __Mumbai, India__<br>
 <p class="full-width"><img src="/pic005.jpg" style="width:10rem;height:8rem;" align="left"/></p>
 
-__Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
+ __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
 
-__Software Engineer II (Feb 2020 - Jan 2021)__ <br>
+ __Software Engineer II (Feb 2020 - Jan 2021)__ <br>
 
-__Software Engineer (Jul 2018 - Jan 2020)__ <br><br>
+ __Software Engineer (Jul 2018 - Jan 2020)__ <br><br>
 
 - Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra.
 - Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
