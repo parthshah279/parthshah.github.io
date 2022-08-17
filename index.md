@@ -51,7 +51,7 @@ __New York, USA__<br>
 
 __JP Morgan Chase & Co.__<br>
 __Mumbai, India__<br>
-<p class="full-width"><img src="/pic005.jpg" style="width:9rem;height:7rem" align="left"/></p><br><br><br><br><br>
+<p class="full-width"><img src="/public/pic005.jpg" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
 
