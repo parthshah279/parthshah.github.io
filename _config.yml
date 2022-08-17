@@ -11,7 +11,7 @@ title:            Manal Shah
 tagline:          'Start here, make a difference'
 description:      'CS Grad @StonyBrook, NY'
 url:              http://mbshah3.github.io/
-#baseurl:          /
+baseurl:          /
 
 author:
   name:           'Manal Shah'
