@@ -4,20 +4,20 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            Manal Shah
 tagline:          'Start here, make a difference'
 description:      'CS Grad @StonyBrook, NY'
 url:              http://mbshah3.github.io/
-baseurl:          /
+#baseurl:          /
 
 author:
   name:           'Manal Shah'
   email:          manal.shah@stonybrook.edu
 
-paginate:         5
+paginate:         2
 
 # Custom vars
 version:          2.1.0
@@ -41,4 +41,3 @@ share_video:            no
 # google_plus_username: 
 # twitter_username: 
 # instagram_username: 
-# cv_chn: yes
