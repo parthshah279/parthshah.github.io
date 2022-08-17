@@ -3,9 +3,9 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/pic001.jpg" style="width:23rem;height:30rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width no-margin"><img src="/pic001.jpg" style="width:15rem;height:20rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Portrait Drawer. Machine Learning Enthusiast. </p></blockquote>
+<blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Sketcher. Machine Learning Enthusiast. </p></blockquote>
 
 I am a grad student at Stony Brook University, NY currently pursuing MS thesis in the advisory of [Prof. H Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/){:target="_blank"}. I recieved my Bachelor's in Computer Science from Malaviya National Institute of Technology, Jaipur. I was also an undergraduate research assistant working under guidance of [Prof. Santosh Kumar Vipparthi](https://skvipparthi.github.io){:target="_blank"}.
 
