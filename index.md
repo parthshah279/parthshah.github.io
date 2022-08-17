@@ -5,7 +5,7 @@ title: About Me
 
 <p class="full-width no-margin"><img src="/public/pic001.jpg" style="width:23rem;height:30rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Portrait Drawer. Machine Learning Enthusiast. </p></blockquote><br>
+<blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Portrait Drawer. Machine Learning Enthusiast. </p></blockquote>
 
 I am a grad student at Stony Brook University, NY currently pursuing MS thesis in the advisory of [Prof. H Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/){:target="_blank"}. I recieved my Bachelor's in Computer Science from Malaviya National Institute of Technology, Jaipur. I was also an undergraduate research assistant working under guidance of [Prof. Santosh Kumar Vipparthi](https://skvipparthi.github.io){:target="_blank"}.
 
@@ -20,16 +20,16 @@ You can find the detailed information about me in my [Resume](https://drive.goog
 ## Education
 __Stony Brook University (2021 - Present)__<br>
 __New York, USA__ <br>
-<p class="full-width"><img src="/public/pic002.jpg" style="width:7rem;height:7rem" align="left"/></p>
+<p class="full-width"><img src="/public/pic002.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Master of Science in Computer Science__ <br>
-
+ __Master of Science in Computer Science__<br>
+ 
  GPA - __3.86__ /4.00 <br>
  Courses - Machine Learning, Distribted Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br>
 
 __Malaviya National Institute of Technology (2014 - 2018)__<br>
 __Jaipur, India__ <br>
-<p class="full-width"><img src="/public/pic003.jpg" style="width:7rem;height:7rem" align="left"/></p>
+<p class="full-width"><img src="/public/pic003.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Bachelor of Technology in Computer Science and Engineering__ <br>
 
@@ -40,9 +40,9 @@ __Jaipur, India__ <br>
 
 __New York Life Insurance Co.__<br>
 __New York, USA__<br>
-<p class="full-width"><img src="/pic004.jpg" style="width:5rem;height:5rem" align="left"/></p>
+<p class="full-width"><img src="/pic004.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
+ __Machine Learning Engineer Intern(May 2022 - Present)__ <br>
 
 - Built a web application on Domino Data Lab using Web-HDFS API and Dash framework for Mortality Risk Classification model project to automate the model validation and generate reason code analytics.
 - Worked on Mortality Risk Classification model wrapper and corner case testing.
@@ -51,7 +51,7 @@ __New York, USA__<br>
 
 __JP Morgan Chase & Co.__<br>
 __Mumbai, India__<br>
-<p class="full-width"><img src="/pic005.jpg" style="width:8rem;height:6rem" align="left"/></p>
+<p class="full-width"><img src="/pic005.jpg" style="width:9rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
  __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
 
