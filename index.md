@@ -3,7 +3,7 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/public/image/pic01.jpg" alt="zrwang" style="width:15rem;height:15rem;" align="left"/></p>
+<p class="full-width no-margin"><img src="/public/pic001.jpg" style="width:25rem;height:23rem;" align="left"/></p>
 
 <blockquote class="full-width"><p>Geek. Critical thinker. Lifelong learner. ML Engineer Intern at New York Life. Previously Software Engineer at JP Morgan Chase & Co.</p></blockquote>
 
