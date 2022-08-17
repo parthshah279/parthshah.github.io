@@ -3,9 +3,9 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/public/pic001.jpg" style="width:25rem;height:23rem;" align="left"/></p>
+<p class="full-width no-margin"><img src="/public/pic001.jpg" style="width:25rem;height:23rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<blockquote class="full-width"><p>Geek. Critical thinker. Lifelong learner. ML Engineer Intern at New York Life. Previously Software Engineer at JP Morgan Chase & Co.</p></blockquote>
+<blockquote class="full-width"><p>Geek. Critical thinker. Lifelong learner. ML Engineer Intern at New York Life. Previously Software Engineer at JP Morgan Chase & Co.</p></blockquote><br>
 
 I am the Co-Founder & COO of Cornerstone Robotics Limited, for which I also serve as one of the R&D Directors.
 Formerly, I was a Research Assistant Professor in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK).
@@ -21,6 +21,7 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 ## Work Experience
 
 ### JP Morgan Chase & Co.
+<p class="full-width no-margin"><img src="/public/pic005.jpg" style="width:10rem;height:10rem;" align="left"/></p>
 *Associate Software Engineer (Feb 2021 - Aug 2021)* <br>
 *Software Engineer II   (Feb 2020 - Jan 2021)* <br>
 *Software Engineer     (Jul 2018 - Jan 2020)* 
@@ -37,10 +38,12 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
  
 ## Education
 - __Stony Brook University__ *(2021 - Present)* <br>
+<p class="full-width no-margin"><img src="/public/pic002.jpg" style="width:10rem;height:10rem;" align="left"/></p>
 M. S (Computer Science) <br>
-GPA - __3.83__ /4.00
+GPA - __3.86__ /4.00
 
 - __Malaviya National Institute of Technology, Jaipur__ *(2014 - 2018)* <br>
+<p class="full-width no-margin"><img src="/public/pic003.jpg" style="width:10rem;height:10rem;" align="left"/></p>
 Bachelor of Technology (Computer Science and Engineering) <br>
 CGPA - __8.31__ / 10.00 
 
