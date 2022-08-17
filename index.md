@@ -20,8 +20,15 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 
 ## Work Experience
 
+### New York Life
+<p class="full-width no-margin"><img src="/public/pic004.jpg" style="width:8rem;height:5rem;" align="left"/></p><br><br><br><br>
+*Machine Learning Engineer (May 2022 - Present)* <br>
+- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra.
+- Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
+
+
 ### JP Morgan Chase & Co.
-<p class="full-width no-margin"><img src="/public/pic005.jpg" style="width:10rem;height:10rem;" align="left"/></p>
+<p class="full-width no-margin"><img src="/public/pic005.jpg" style="width:8rem;height:5rem;" align="left"/></p><br><br><br><br>
 *Associate Software Engineer (Feb 2021 - Aug 2021)* <br>
 *Software Engineer II   (Feb 2020 - Jan 2021)* <br>
 *Software Engineer     (Jul 2018 - Jan 2020)* 
@@ -38,12 +45,12 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
  
 ## Education
 - __Stony Brook University__ *(2021 - Present)* <br>
-<p class="full-width no-margin"><img src="/public/pic002.jpg" style="width:10rem;height:10rem;" align="left"/></p>
+<p class="full-width no-margin"><img src="/public/pic002.jpg" style="width:5rem;height:5rem;" align="left"/></p><br><br><br><br>
 M. S (Computer Science) <br>
 GPA - __3.86__ /4.00
 
 - __Malaviya National Institute of Technology, Jaipur__ *(2014 - 2018)* <br>
-<p class="full-width no-margin"><img src="/public/pic003.jpg" style="width:10rem;height:10rem;" align="left"/></p>
+<p class="full-width no-margin"><img src="/public/pic003.jpg" style="width:5rem;height:5rem;" align="left"/></p><br><br><br><br>
 Bachelor of Technology (Computer Science and Engineering) <br>
 CGPA - __8.31__ / 10.00 
 
