@@ -3,7 +3,7 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/public/pic001.jpg" style="width:23rem;height:30rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width no-margin"><img src="/pic001.jpg" style="width:23rem;height:30rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Portrait Drawer. Machine Learning Enthusiast. </p></blockquote>
 
