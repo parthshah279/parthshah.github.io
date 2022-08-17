@@ -60,14 +60,10 @@ __Mumbai, India__<br>
 
  __Software Engineer (Jul 2018 - Jan 2020)__ <br><br>
 
-- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra.
-- Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
+- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra. Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
 - Led a team of developers in a global team hackathon and developed a critical business web application prototype using React.JS and TypeScript, deploying it on the private cloud - GAIA.
-- Onboarded Price Valuation workflows consisting of automated jobs for Fixed Income Finance business in JPMC’s Athena framework saving annually 800+ person-hours.
-- Automated creation of market data reports for end-users and regulatory operations, and various desks.
-- Implemented external vendor data snapping APIs using encrypted connections in a client-server application.
-- Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
-- Provided production support for the live dashboard of automated workflow processes of various businesses.
+- Onboarded Price Valuation workflows consisting of automated jobs for Fixed Income Finance business in JPMC’s Athena framework saving annually 800+ person-hours. Automated creation of market data reports for end-users and regulatory operations, and various desks. Provided production support for the live dashboard of automated workflow processes of various businesses.
+- Implemented external vendor data snapping APIs using encrypted connections in a client-server application. Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
 - Developed a tool for end-users to query trade data and plot informational views using the Enaml framework. 
 
 ## Projects
