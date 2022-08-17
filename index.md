@@ -41,7 +41,7 @@ Courses - Operating Systems, Database Management Systems, Computer Networks, Dis
 
 __New York Life Insurance Co.__<br>
 __New York, USA__<br>
-<p class="full-width"><img src="/public/pic004.jpg" style="width:13rem;height:8rem;" align="left"/></p><br><br>
+<p class="full-width"><img src="/pic004.jpg" style="width:8rem;height:8rem;" align="left"/></p><br><br>
 
 __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
 
@@ -52,7 +52,7 @@ __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
 
 __JP Morgan Chase & Co.__<br>
 __Mumbai, India__<br>
-<p class="full-width"><img src="/public/pic005.jpg" style="width:12rem;height:8rem;" align="left"/></p>
+<p class="full-width"><img src="/pic005.jpg" style="width:10rem;height:8rem;" align="left"/></p>
 
 __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
 
