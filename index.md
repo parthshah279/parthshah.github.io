@@ -7,21 +7,20 @@ title: About Me
 
 <blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Portrait Drawer. Machine Learning Enthusiast. </p></blockquote><br>
 
-I am the Co-Founder & COO of Cornerstone Robotics Limited, for which I also serve as one of the R&D Directors.
-Formerly, I was a Research Assistant Professor in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK).
+I am a grad student at Stony Brook University, NY currently pursuing MS thesis in the advisory of [Prof. H Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/){:target="_blank"}. I recieved my Bachelor's in Computer Science from Malaviya National Institute of Technology, Jaipur. I was also an undergraduate research assistant working under guidance of [Prof. Santosh Kumar Vipparthi](https://skvipparthi.github.io){:target="_blank"}.
 
-Supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html){:target="_blank"}, I received my Ph.D. degree in the MAE department at CUHK, advised by [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu){:target="_blank"} in July 2017, and then I served as a Post-Doctoral Research Fellow in the MAE department at CUHK for half a year.
-During the last two years of my Ph.D. study, I was working with [Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/){:target="_blank"} as a visiting student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}.
-Prior to my Ph.D studies, I received B.E. degree at [Beihang University](http://www.buaa.edu.cn/){:target="_blank"}, China.
+During my bachelor's, I conducted research in computer vision focused on real-time object detection and recognition in aerial scenary. I co-authored conference and journal publications, which were later published in [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/document/8755462){:target="_blank"} and [IEEE International Conference on Image Processing](https://ieeexplore.ieee.org/document/8803262){:target="_blank"}.
 
-My research interests are vision-based soft object manipulation, vision-based surgical instruments/systems tracking, calibration, control, and developments of robotic surgical systems, with emphasis on both scientific and engineering aspects.
+My research interests are human focused Natural Language Processing applications, vision-based object/action detection, recognition and tracking in images/videos.
 
-You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
+Prior to my masters, I gained 3 years of experience working as a software engineer at JP Morgan Chase & Co. in Mumbai, India. From developing and maintaining various financial applications, I have gained experience in end to end Software Development Life Cycle (SDLC) and CI/CD pipelines. 
+
+You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %}.
 
 ## Education
 __Stony Brook University (2021 - Present)__<br>
 __New York, USA__ <br>
-<p class="full-width"><img src="/public/pic002.jpg" style="width:8rem;height:8rem;" align="left"/></p>
+<p class="full-width"><img src="/public/pic002.jpg" style="width:8rem;height:8rem;padding:4rem" align="left"/></p>
 
  __Master of Science in Computer Science__ <br>
 
@@ -30,7 +29,7 @@ __New York, USA__ <br>
 
 __Malaviya National Institute of Technology (2014 - 2018)__<br>
 __Jaipur, India__ <br>
-<p class="full-width"><img src="/public/pic003.jpg" style="width:8rem;height:8rem;" align="left"/></p>
+<p class="full-width"><img src="/public/pic003.jpg" style="width:8rem;height:8rem;padding:4rem" align="left"/></p>
 
  __Bachelor of Technology in Computer Science and Engineering__ <br>
 
@@ -41,7 +40,7 @@ __Jaipur, India__ <br>
 
 __New York Life Insurance Co.__<br>
 __New York, USA__<br>
-<p class="full-width"><img src="/pic004.jpg" style="width:8rem;height:8rem;" align="left"/></p><br><br>
+<p class="full-width"><img src="/pic004.jpg" style="width:6rem;height:6rem;padding:4rem" align="left"/></p><br>
 
  __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
 
@@ -52,7 +51,7 @@ __New York, USA__<br>
 
 __JP Morgan Chase & Co.__<br>
 __Mumbai, India__<br>
-<p class="full-width"><img src="/pic005.jpg" style="width:10rem;height:8rem;" align="left"/></p>
+<p class="full-width"><img src="/pic005.jpg" style="width:8rem;height:6rem;padding:4rem" align="left"/></p>
 
  __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
 
