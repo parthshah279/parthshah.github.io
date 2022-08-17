@@ -3,9 +3,9 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/pic001.jpg" style="width:22rem;height:28rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width no-margin"><img src="/public/pic001.jpg" style="width:23rem;height:30rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<blockquote class="full-width"><p>Geek. Critical thinker. Lifelong learner. ML Engineer Intern at New York Life. Previously Software Engineer at JP Morgan Chase & Co.</p></blockquote><br>
+<blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Portrait Drawer. Machine Learning Enthusiast. </p></blockquote><br>
 
 I am the Co-Founder & COO of Cornerstone Robotics Limited, for which I also serve as one of the R&D Directors.
 Formerly, I was a Research Assistant Professor in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK).
@@ -18,20 +18,47 @@ My research interests are vision-based soft object manipulation, vision-based su
 
 You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
+## Education
+__Stony Brook University (2021 - Present)__<br>
+__New York, USA__ <br>
+<p class="full-width"><img src="/public/pic002.jpg" style="width:8rem;height:8rem;" align="left"/></p>
+
+__Master of Science in Computer Science__ <br>
+
+GPA - __3.86__ /4.00 <br>
+Courses - Machine Learning, Distribted Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br><br><br>
+
+__Malaviya National Institute of Technology (2014 - 2018)__<br>
+__Jaipur, India__ <br>
+<p class="full-width"><img src="/public/pic003.jpg" style="width:8rem;height:8rem;" align="left"/></p>
+
+__Bachelor of Technology in Computer Science and Engineering__ <br>
+
+CGPA - __8.31__ / 10.00 <br>
+Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br><br><br>
+
 ## Work Experience
 
-### New York Life
-<p class="full-width no-margin"><img src="/public/pic004.jpg" style="width:8rem;height:5rem;" align="left"/></p><br><br><br><br>
-*Machine Learning Engineer (May 2022 - Present)* <br>
-- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra.
-- Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
+__New York Life Insurance Co.__<br>
+__New York, USA__<br>
+<p class="full-width"><img src="/public/pic004.jpg" style="width:13rem;height:8rem;" align="left"/></p><br><br>
+
+__Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
+
+- Built a web application on Domino Data Lab using Web-HDFS API and Dash framework for Mortality Risk Classification model project to automate the model validation and generate reason code analytics.
+- Worked on Mortality Risk Classification model wrapper and corner case testing.
 
 
-### JP Morgan Chase & Co.
-<p class="full-width no-margin"><img src="/public/pic005.jpg" style="width:8rem;height:5rem;" align="left"/></p><br><br><br><br>
-*Associate Software Engineer (Feb 2021 - Aug 2021)* <br>
-*Software Engineer II   (Feb 2020 - Jan 2021)* <br>
-*Software Engineer     (Jul 2018 - Jan 2020)* 
+
+__JP Morgan Chase & Co.__<br>
+__Mumbai, India__<br>
+<p class="full-width"><img src="/public/pic005.jpg" style="width:12rem;height:8rem;" align="left"/></p>
+
+__Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
+
+__Software Engineer II (Feb 2020 - Jan 2021)__ <br>
+
+__Software Engineer (Jul 2018 - Jan 2020)__ <br><br>
 
 - Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra.
 - Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
@@ -42,37 +69,6 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 - Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
 - Provided production support for the live dashboard of automated workflow processes of various businesses.
 - Developed a tool for end-users to query trade data and plot informational views using the Enaml framework. 
- 
-## Education
-- __Stony Brook University__ *(2021 - Present)* <br>
-<p class="full-width no-margin"><img src="/public/pic002.jpg" style="width:5rem;height:5rem;" align="left"/></p><br><br><br><br>
-M. S (Computer Science) <br>
-GPA - __3.86__ /4.00
-
-- __Malaviya National Institute of Technology, Jaipur__ *(2014 - 2018)* <br>
-<p class="full-width no-margin"><img src="/public/pic003.jpg" style="width:5rem;height:5rem;" align="left"/></p><br><br><br><br>
-Bachelor of Technology (Computer Science and Engineering) <br>
-CGPA - __8.31__ / 10.00 
-
-## Courses
-
-- __Machine Learning__ <br>                                                                           
-GPA - __4.0__ / 4.0
-
-- __Logic in Computer Science__ <br>                                                                           
-GPA - __4.0__ / 4.0
-
-- __Data Science Fundamentals__ <br>                                                                           
-GPA - __3.7__ / 4.0
-
-- __Introduction to Computer Vision__ <br>                                                                           
-GPA - __3.3__ / 4.0
-
-- __Big Data Analytics__ <br>                                                                           
-GPA - __4.0__ / 4.0
-
-- __Probability and Statistics for Data Scientists__ <br>
-GPA - __4.0__ / 4.0
 
 ## Projects
 
