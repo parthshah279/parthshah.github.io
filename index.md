@@ -15,34 +15,34 @@ My research interests are human focused Natural Language Processing applications
 
 Prior to my masters, I gained 3 years of experience working as a software engineer at JP Morgan Chase & Co. in Mumbai, India. From developing and maintaining various financial applications, I have gained experience in end to end Software Development Life Cycle (SDLC) and CI/CD pipelines. 
 
-You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %}.
+You can find the detailed information about me in my [Resume](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}.
 
 ## Education
 __Stony Brook University (2021 - Present)__<br>
 __New York, USA__ <br>
-<p class="full-width"><img src="/public/pic002.jpg" style="width:8rem;height:8rem;padding:4rem" align="left"/></p>
+<p class="full-width"><img src="/public/pic002.jpg" style="width:7rem;height:7rem" align="left"/></p>
 
  __Master of Science in Computer Science__ <br>
 
  GPA - __3.86__ /4.00 <br>
- Courses - Machine Learning, Distribted Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br><br><br>
+ Courses - Machine Learning, Distribted Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br>
 
 __Malaviya National Institute of Technology (2014 - 2018)__<br>
 __Jaipur, India__ <br>
-<p class="full-width"><img src="/public/pic003.jpg" style="width:8rem;height:8rem;padding:4rem" align="left"/></p>
+<p class="full-width"><img src="/public/pic003.jpg" style="width:7rem;height:7rem" align="left"/></p>
 
  __Bachelor of Technology in Computer Science and Engineering__ <br>
 
  CGPA - __8.31__ / 10.00 <br>
- Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br><br><br>
+ Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br>
 
 ## Work Experience
 
 __New York Life Insurance Co.__<br>
 __New York, USA__<br>
-<p class="full-width"><img src="/pic004.jpg" style="width:6rem;height:6rem;padding:4rem" align="left"/></p><br>
+<p class="full-width"><img src="/pic004.jpg" style="width:5rem;height:5rem" align="left"/></p><br>
 
- __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br><br>
+ __Machine Learning Engineer Intern(May 2022 - Present)__ <br><br>
 
 - Built a web application on Domino Data Lab using Web-HDFS API and Dash framework for Mortality Risk Classification model project to automate the model validation and generate reason code analytics.
 - Worked on Mortality Risk Classification model wrapper and corner case testing.
@@ -51,13 +51,13 @@ __New York, USA__<br>
 
 __JP Morgan Chase & Co.__<br>
 __Mumbai, India__<br>
-<p class="full-width"><img src="/pic005.jpg" style="width:8rem;height:6rem;padding:4rem" align="left"/></p>
+<p class="full-width"><img src="/pic005.jpg" style="width:8rem;height:6rem" align="left"/></p>
 
  __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
 
  __Software Engineer II (Feb 2020 - Jan 2021)__ <br>
 
- __Software Engineer (Jul 2018 - Jan 2020)__ <br><br>
+ __Software Engineer (Jul 2018 - Jan 2020)__ <br>
 
 - Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra. Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
 - Led a team of developers in a global team hackathon and developed a critical business web application prototype using React.JS and TypeScript, deploying it on the private cloud - GAIA.
@@ -97,11 +97,18 @@ Conducted training in developers’ community on Advanced Python, AI/ML, Pandas,
 
 ## Programming Languages
 - Python
+- Go
 - C/C++
 - Java
-- Javascript / ReactJS
+- Javascript
+- Typescript
 - PHP
 - Enaml
+
+## Frameworks
+- Dash
+- Flask
+- ReactJS
 
 ## Libraries and Tools
 - Pandas
@@ -113,7 +120,9 @@ Conducted training in developers’ community on Advanced Python, AI/ML, Pandas,
 - Hive
 - PyTorch
 - Tensorflow
+- Keras
 - OpenCV
+- Domino Data lab
 - Containerization and Orchestration (Docker, CI/CD)
 - Linux
 - Cloud Platforms (AWS)
