@@ -16,5 +16,5 @@ My research interests are human-centered Natural Language Processing application
 
 Prior to my Master's, I gained 3 years of experience working as a software engineer at JP Morgan Chase & Co. in Mumbai, India. From developing and maintaining various financial applications, I have gained experience in end to end Software Development Life Cycle (SDLC) and CI/CD pipelines. 
 
-You can find the detailed information about me in my [Resume](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}.
+Please feel free to check out my [resume](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}, the [projects](https://mbshah3.github.io/Projects){:target="_blank"} I have done, or you could [contact](https://mbshah3.github.io/Contact){:target="_blank"}  me.
 
