@@ -8,11 +8,11 @@ permalink:        pretty
 
 # Setup
 title:            Manal Shah
-tagline:          'Start here, make a difference'
+tagline:          'Software Engineer'
 description:      'CS Grad @StonyBrook, NY'
 url:              http://mbshah3.github.io/
-baseurl:          /
-puburl:           /pub/
+# baseurl:          /
+# puburl:           /pub/
 
 author:
   name:           'Manal Shah'
