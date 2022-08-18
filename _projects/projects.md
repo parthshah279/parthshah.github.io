@@ -6,7 +6,7 @@ permalink: /Projects
 ## __Social-BERT [Mar '22 - Present]__ <hr>
 <p class="full-width"><img src="/public/pic010.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Image Credits](https://www.researchgate.net/figure/BERT-architecture-1_fig1_340295341)<br>
+[Image Credits](https://www.researchgate.net/figure/BERT-architecture-1_fig1_340295341){:target="_blank"}<br>
 - Worked under the guidance of Prof. Andrew Schwartz and Adithya Ganesan of the Computer Science Department at Stony Brook University to fine-tune masked language modeling(MLM) with RoBERTa, BERTweet as seed to capture the language used in social media for token and sequence classification tasks. <br><br>
 
 ## __Real-time Vehicle Detection and Classification in Aerial Scenes [Oct '17 - Mar '18]__ <hr>
@@ -28,7 +28,7 @@ permalink: /Projects
 ## __First-Person Activity Recognition in Videos [Oct '21 - Dec '21]__ <hr>
 <p class="full-width"><img src="/public/pic009.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Image Credits](http://michaelryoo.com/papers/cvpr2013_ryoo.pdf)<br>
+[Image Credits](http://michaelryoo.com/papers/cvpr2013_ryoo.pdf){:target="_blank"}<br>
 
  - Finetuned ImageNet pre-trained Resnet50 CNN model to serve as a feature extractor and using it performed classification task on JPL interaction video frames to identify activities such as hugging, waving, punching etc. in PyTorch and OpenCV. 
  - Temporal pooling was used to extract spatial features in a given time window. <br><br>
@@ -37,7 +37,7 @@ permalink: /Projects
 
 <p class="full-width"><img src="/public/pic007.jpg" style="width:36rem;height:20rem" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Image Credits](http://www.gabormelli.com/RKB/Bidirectional_LSTM_%28BiLSTM%29_Model)<br>
+[Image Credits](http://www.gabormelli.com/RKB/Bidirectional_LSTM_%28BiLSTM%29_Model){:target="_blank"}<br>
 
  - Built a fair price prediction model for Airbnb listings using range of methods like support vector regression, random forest regression and gradient boosting models. 
  - Performed multi-class customer review sentiment analysis using pretrained word embeddings and bidirectional LSTM model using Tensorflow with training dataset consisting of 10+ million customer reviews. <br><br>
