@@ -40,3 +40,7 @@ share_video:            no
 # google_plus_username: 
 # twitter_username: 
 # instagram_username: 
+
+collections:
+  publications:
+    output:       true
