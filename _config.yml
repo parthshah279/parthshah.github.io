@@ -44,6 +44,8 @@ share_video:            no
 collections:
   publications:
     output: true
+  posts:
+    output: true
 
 defaults:
   -
