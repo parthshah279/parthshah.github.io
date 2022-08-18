@@ -6,7 +6,8 @@ title: Resume
 
 [Download](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}
 
-## Education ***
+## Education 
+***
 
 __Stony Brook University (2021 - Present)__<br>
 __New York, USA__ <br>
@@ -26,7 +27,8 @@ __Jaipur, India__ <br>
  CGPA - __8.31__ / 10.00 <br>
  Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br>
 
-## Work Experience ***
+## Work Experience 
+***
 
 __New York Life Insurance Co.__<br>
 __New York, USA__<br>
@@ -60,7 +62,8 @@ __Mumbai, India__<br>
 - Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
 - Developed a tool for end-users to query trade data and plot informational views using the Enaml framework. 
 
-## Volunteer Work ***
+## Volunteer Work 
+***
 
 - __Take IT Forward__ *(2020-21)* <br>
 Partenered with Take IT Forward(TIF) community at JP Morgan and Chase as a trainer, aimed at improving and upskilling Women in Tech. I provided technical trainings and conducted webinars as a part of Python bootcamps. <br>
@@ -71,7 +74,8 @@ Volunteered as a Technical Judge for the Code For Good Hackathon hosted by JP Mo
 - __Ignite__ *(2019-20)* <br>
 Conducted training in developers’ community on Advanced Python, AI/ML, Pandas, and NumPy libraries.
 
-## Skills ***
+## Skills 
+***
 
 __Programming Languages__ 
 - Python
@@ -106,7 +110,8 @@ __Libraries and Tools__
 - Cloud Platforms (AWS)
 - Databases & Storage (MySQL, SQLite, Hydra)
 
-## Awards	***
+## Awards	
+***
 
 - 1st place, Most Innovative B. Tech Project Competition of MNIT (2018)
 
