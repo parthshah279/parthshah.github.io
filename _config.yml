@@ -39,7 +39,11 @@ share_video:            no
 # facebook_username: 
 # google_plus_username: 
 # twitter_username: 
-# instagram_username: 
+# instagram_username:
+
+collections:
+  publications:
+    output: true
 
 defaults:
   -
