@@ -4,9 +4,9 @@ permalink: /Resume
 title: Resume
 ---
 
-[Download](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}.
+[Download](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}
 
-## Education
+## Education <hr>
 __Stony Brook University (2021 - Present)__<br>
 __New York, USA__ <br>
 <p class="full-width"><img src="/public/pic002.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
@@ -25,7 +25,7 @@ __Jaipur, India__ <br>
  CGPA - __8.31__ / 10.00 <br>
  Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br>
 
-## Work Experience
+## Work Experience <hr>
 
 __New York Life Insurance Co.__<br>
 __New York, USA__<br>
@@ -50,13 +50,16 @@ __Mumbai, India__<br>
 
  __Software Engineer (Jul 2018 - Jan 2020)__ <br>
 
-- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra. Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
+- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra. 
+- Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
 - Led a team of developers in a global team hackathon and developed a critical business web application prototype using React.JS and TypeScript, deploying it on the private cloud - GAIA.
-- Onboarded Price Valuation workflows consisting of automated jobs for Fixed Income Finance business in JPMC’s Athena framework saving annually 800+ person-hours. Automated creation of market data reports for end-users and regulatory operations, and various desks. Provided production support for the live dashboard of automated workflow processes of various businesses.
-- Implemented external vendor data snapping APIs using encrypted connections in a client-server application. Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
+- Onboarded Price Valuation workflows consisting of automated jobs for Fixed Income Finance business in JPMC’s Athena framework saving annually 800+ person-hours. 
+- Automated creation of market data reports for end-users and regulatory operations, and various desks. Provided production support for the live dashboard of automated workflow processes of various businesses.
+- Implemented external vendor data snapping APIs using encrypted connections in a client-server application. 
+- Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
 - Developed a tool for end-users to query trade data and plot informational views using the Enaml framework. 
 
-## Volunteer Work
+## Volunteer Work <hr>
 - __Take IT Forward__ *(2020-21)* <br>
 Partenered with Take IT Forward(TIF) community at JP Morgan and Chase as a trainer, aimed at improving and upskilling Women in Tech. I provided technical trainings and conducted webinars as a part of Python bootcamps. <br>
 
@@ -66,7 +69,9 @@ Volunteered as a Technical Judge for the Code For Good Hackathon hosted by JP Mo
 - __Ignite__ *(2019-20)* <br>
 Conducted training in developers’ community on Advanced Python, AI/ML, Pandas, and NumPy libraries.
 
-## Programming Languages
+## Skills <hr>
+
+__Programming Languages__ 
 - Python
 - Go
 - C/C++
@@ -76,12 +81,12 @@ Conducted training in developers’ community on Advanced Python, AI/ML, Pandas,
 - PHP
 - Enaml
 
-## Frameworks
+__Frameworks__
 - Dash
 - Flask
 - ReactJS
 
-## Libraries and Tools
+__Libraries and Tools__
 - Pandas
 - NumPy
 - Scikit-Learn
@@ -99,6 +104,7 @@ Conducted training in developers’ community on Advanced Python, AI/ML, Pandas,
 - Cloud Platforms (AWS)
 - Databases & Storage (MySQL, SQLite, Hydra)
 
-## Awards			
+## Awards	<hr>
+
 - 1st place, Most Innovative B. Tech Project Competition of MNIT (2018)
 
