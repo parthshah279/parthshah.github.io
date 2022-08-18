@@ -4,8 +4,6 @@ title: Projects
 permalink: /Projects
 ---
 
-### Projects
-
 - __Retrieval Patterns of Physical Objects from Retail Sales__ <br>
 Implemented Prod2Vec algorithm which uses the local product co-occurrence information established by the product sequences to create a distributed representation of products and recommends similar products. Performed comparative analysis of GloVe, FastText and Word2Vec models on retail product embeddings. <br>
 
