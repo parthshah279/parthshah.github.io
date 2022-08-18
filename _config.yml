@@ -45,6 +45,7 @@ collections:
   publications:
     output: true
   posts:
+    permalink: /:collection/:name
     output: true
 
 defaults:
