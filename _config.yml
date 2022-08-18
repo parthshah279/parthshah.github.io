@@ -43,14 +43,16 @@ share_video:            no
 collections:
   publications:
     output: true
-  posts:
-    permalink: /:collection/:name
+  contact:
+    output: true
+  resume:
+    output: true
+  projects:
     output: true
 
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "publications"
     values:
       layout: "default"
