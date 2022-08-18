@@ -41,6 +41,9 @@ share_video:            no
 # twitter_username: 
 # instagram_username: 
 
-collections:
-  publications:
-    output:       true
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
