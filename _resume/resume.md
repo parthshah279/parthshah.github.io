@@ -4,7 +4,7 @@ permalink: /Resume
 title: Resume
 ---
 
-Download PDF: [Resume](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}.
+[Download](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}.
 
 ## Education
 __Stony Brook University (2021 - Present)__<br>
@@ -14,7 +14,7 @@ __New York, USA__ <br>
  __Master of Science in Computer Science__<br>
  
  GPA - __3.86__ /4.00 <br>
- Courses - Machine Learning, Distribted Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br>
+ Courses - Machine Learning, Distributed Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br>
 
 __Malaviya National Institute of Technology (2014 - 2018)__<br>
 __Jaipur, India__ <br>
@@ -33,9 +33,11 @@ __New York, USA__<br>
 
  __Machine Learning Engineer Intern(May 2022 - Present)__ <br>
 
-- Built a web application on Domino Data Lab using Web-HDFS API and Dash framework for Mortality Risk Classification model project to automate the model validation and generate reason code analytics.
-- Worked on Mortality Risk Classification model wrapper and corner case testing.
-
+__Project: Mortality Risk Classification Model__
+- Worked on improving model prediction and descriptive reason codes as output for the underwriters and agents incorporating new medical data sources.
+- Built a web application on Domino Data Lab plaform using Web-HDFS API and Dash framework for the model to automate the model validation and to generate reason code analytics.
+- Worked on test generation automation, wrapper and corner case testin for the model.
+- Adapted Model Development Life Cycle (MDLC) for the model releases.
 
 
 __JP Morgan Chase & Co.__<br>
