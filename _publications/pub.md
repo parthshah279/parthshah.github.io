@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects & Publications
+permalink: /publications/
 ---
 
 ### Publications
