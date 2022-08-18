@@ -5,8 +5,6 @@ title: About Me
 
 <p class="full-width no-margin"><img src="/pic001.jpg" style="width:15rem;height:20rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<blockquote class="full-width"><p>Geek. Critical thinker. Runner. Trekker. Sketcher. Machine Learning Enthusiast. </p></blockquote>
-
 I am a grad student at Stony Brook University, NY currently pursuing M.S. in Computer Science. I work with [Prof. H Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/){:target="_blank"}'s [Human Language Analysis Beings (HLAB)](https://hlab.cs.stonybrook.edu){:target="_blank"} at Stony Brook, where we work on human-centered language processing techniques. I recieved my Bachelor's in Computer Science from Malaviya National Institute of Technology, Jaipur, India. I was also an undergraduate research assistant at [Prof. Santosh Kumar Vipparthi](https://skvipparthi.github.io){:target="_blank"}'s Vision Intelligence Lab.
 
 During my bachelor's, I conducted research in computer vision focused on real-time object detection and recognition in aerial scenary. I co-authored journal publication which was later published in [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/document/8755462){:target="_blank"} and I presented my published work at [IEEE International Conference on Image Processing](https://ieeexplore.ieee.org/document/8803262){:target="_blank"}.
