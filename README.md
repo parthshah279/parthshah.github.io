@@ -1,2 +1,2 @@
 Personal Website:
-[manalshah.com](https://mbshah3.github.io)
+[mbshah3.github.io](https://mbshah3.github.io)
