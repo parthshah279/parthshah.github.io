@@ -1,6 +1,6 @@
 ---
 layout: aboutme
-permalink: /home
+permalink: /Home
 title: About Me
 ---
 
