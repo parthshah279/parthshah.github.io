@@ -4,8 +4,6 @@ title: Publications
 permalink: /Publications
 ---
 
-### Publications
-
 - __Journal__<br>
 M. Mandal, __M. Shah__, P. Meena, S. Devi and S. K. Vipparthi, "AVDNet: A small-sized vehicle detection network for aerial visual data", IEEE Geosci. Remote Sens. Lett., vol. 17, no. 3, pp. 494-498, Mar. 2020.[@Paper](https://ieeexplore.ieee.org/document/8755462){:target="_blank"}
 
