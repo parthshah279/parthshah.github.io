@@ -3,7 +3,7 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/pic001.jpg" style="width:70rem;height:45rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p class="full-width no-margin"><img src="/pic001.jpg" style="width:45rem;height:30rem;" align="left"/></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 I am a grad student at Stony Brook University, NY currently pursuing M.S. in Computer Science. I work with [Prof. H Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/){:target="_blank"}'s [Human Language Analysis Beings (HLAB)](https://hlab.cs.stonybrook.edu){:target="_blank"} at Stony Brook, where we work on human-centered language processing techniques. I recieved my Bachelor's in Computer Science from Malaviya National Institute of Technology, Jaipur, India. I was also an undergraduate research assistant at [Prof. Santosh Kumar Vipparthi](https://skvipparthi.github.io){:target="_blank"}'s Vision Intelligence Lab.
 
