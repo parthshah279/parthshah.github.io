@@ -70,18 +70,6 @@ __Vadodara, India__<br>
 - Saved $500k by re-utilization of materials across customer projects in GIS and reduced $50k obsolete inventory
 - Enhanced service levels and optimized working capital through effective inventory management and demand planning
 
-## Volunteer Work 
-***
-
-- __Take IT Forward__ *(2020-21)* <br>
-Partenered with Take IT Forward(TIF) community at JP Morgan and Chase as a trainer, aimed at improving and upskilling Women in Tech. I provided technical trainings and conducted webinars as a part of Python bootcamps. <br>
-
-- __Code For Good__ *(2020-21)* <br>
-Volunteered as a Technical Judge for the Code For Good Hackathon hosted by JP Morgan Chase to help various NGOs build software solutions. I contributed as a technical judge to help evaluate team projects by hackathon participants. <br>
-
-- __Ignite__ *(2019-20)* <br>
-Conducted training in developers’ community on Advanced Python, AI/ML, Pandas, and NumPy libraries.
-
 ## Skills 
 ***
 
