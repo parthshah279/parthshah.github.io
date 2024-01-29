@@ -45,6 +45,7 @@ Novo Nordisk faced a challenge in managing five types of purchased APIs, essenti
 Goal: 
 
 Develop an API stock simulation file that integrates data sources, updating automatically on a weekly basis.
+
 Actions: 
 
 - Defined necessary data points and identified required data sources: Semi-finished product demand from APO, converted into API requirements based on the Bill of Materials; Current stock levels from SAP ECC; Information on API batches categorized by location and type; Estimated remaining time for batch releases in quality control; Records of current purchase orders and their expected arrival dates.
@@ -105,7 +106,6 @@ Results:
 - At the end of six months, the company successfully addressed the slow-moving inventory challenge and exceeded expectations. The company had set a reduced SLOB (Slow-Moving and Obsolete) target of 1 million USD, but the actual achievement was an impressive 2.5 million USD. 
 
 - This accomplishment was particularly noteworthy as it was achieved in the challenging business environment of the Philippines and Vietnam during the ongoing COVID-19 pandemic. The combination of strategic categorization, cross-functional collaboration, and targeted actions on specific SKUs contributed to this successful outcome.
-
  <br><br>
 
 ## __Improved Case fill rate (CFR) to 98% in Philippines at Diageo__ 
@@ -134,6 +134,4 @@ Results:
 - Focus on Root Causes: The ability to identify and address issues on a daily basis led to a focused effort on resolving root causes, particularly shipping delays and other factors impacting case fill rate.
 
 - Customer Satisfaction: The proactive approach and enhanced communication resulted in increased customer satisfaction, demonstrating the positive impact of the implemented strategies.
-
- 
  <br><br>

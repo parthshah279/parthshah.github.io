@@ -12,5 +12,5 @@ I have spearheaded operational excellence initiatives and continuous improvement
 <br><br>
 I am eager to transition into Program Manager, Product Manager, or Project Manager and Supply Chain Manager roles in the Technology, Retail, and Consulting industries post-graduation.
 <br><br>
-Please feel free to check out my [resume](https://drive.google.com/file/d/1kLxVUSjQzHid33PM0Ksk8rAnQ0Da5MRI/view?usp=drive_link), the [projects](https://parthshah.github.io/Projects){:target="_blank"} I have done, or you could [contact](https://parthshah.github.io/Contact){:target="_blank"} me.
+Please feel free to check out my [resume](https://drive.google.com/file/d/1kLxVUSjQzHid33PM0Ksk8rAnQ0Da5MRI/view?usp=drive_link), the [projects](https://parthshah279.github.io/Projects){:target="_blank"} I have done, or you could [contact](https://parthshah.github.io/Contact){:target="_blank"} me.
 
