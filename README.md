@@ -1,2 +1,2 @@
 Personal Website:
-[mbshah3.github.io](https://mbshah3.github.io)
+[parthshah279.github.io](https://parthshah279.github.io)

@@ -6,43 +6,33 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Manal Shah
-tagline:          'Software Engineer'
-description:      'CS Grad @StonyBrook, NY'
-url:              http://mbshah3.github.io
+title:            Parth Shah
+tagline:          'Supply Chain Professional'
+description:      'MSCM Grad @UW, Seattle'
+url:              http://parthshah279.github.io
 
 author:
-  name:           'Manal Shah'
-  email:          manal.shah@stonybrook.edu
+  name:           'Parth Shah'
+  email:          parths279@gmail.com
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/manal3112
-
 gems: [jekyll-paginate]
 since:                  2018
-google_analytics:       UA-63207330-1
-emailme:                mailto:manal.shah@stonybrook.edu
-github:
-  repo:                 https://github.com/manal3112
-version:                Aug.16.2022
-googlescholar_username: XDvADooAAAAJ
-linkedin_username:      manalshah31
-github_username:        manal3112
+emailme:                mailto:parths279@gmail.com
+version:                Jan.29.2024
+linkedin_username:      parth-b-shah
 share_pdf:              no
 share_video:            no
 # facebook_username: 
 # google_plus_username: 
 # twitter_username: 
-# instagram_username:
+instagram_username:     parthshah279
 
 collections:
-  publications:
-    output: true
   contact:
     output: true
   resume:

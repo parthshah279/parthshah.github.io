@@ -4,63 +4,71 @@ permalink: /Resume
 title: Resume
 ---
 
-[Download](https://drive.google.com/file/d/1xicdDNRinuLs39hC4ovnJXvNmWhltcEu/view){:target="_blank"}
+[Download](https://drive.google.com/file/d/17BbkkRoUjyWN23rZqIaV4Jrv9tJNDsw1/view?usp=drive_link){:target="_blank"}
 
 ## Education 
 ***
 
-__Stony Brook University (2021 - Present)__<br>
-__New York, USA__ <br>
-<p class="full-width"><img src="/public/pic002.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
+__University of Washington, Michael G. Foster School of Business - (2023 - 2024)__<br>
+__Seattle, WA__ <br>
+<p class="full-width"><img src="/public/University_of_Washington_seal.png" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Master of Science in Computer Science__<br>
+ __Master of Supply Chain Management (MSCM)_<br>
  
- GPA - __3.86__ /4.00 <br>
- Courses - Machine Learning, Distributed Systems, Data Science Fundamentals, Computer Vision, Big Data Analytics, Probability and Statistics<br>
+ GPA - __3.8__ /4.0 <br>
+ Courses - Strategic Sourcing and Procurement, Forecasting, Inventory Mgt. and Supply Chain Analytics, Negotiations, Data
+ Analytics, Project Management, Operations Management, Spreadsheet Modeling, Channel management<br>
 
-__Malaviya National Institute of Technology (2014 - 2018)__<br>
-__Jaipur, India__ <br>
-<p class="full-width"><img src="/public/pic003.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
+__Sardar Vallabhbhai National Institute of Technology (2010 - 2014)__<br>
+__Surat, India__ <br>
+<p class="full-width"><img src="/public/NIT_Surat_Logo.png" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Bachelor of Technology in Computer Science and Engineering__ <br>
+ __Bachelor of Technology in Mechanical Engineering__ <br>
 
- CGPA - __8.31__ / 10.00 <br>
- Courses - Operating Systems, Database Management Systems, Computer Networks, Discrete Mathematics, Natural Language Processing<br>
+ GPA - __3.9__ /4.0 <br>
+ Courses - Machine Design, Heat & Mass Transfer, Fluid Mechanics, Thermodynamics, Industrial Engineering, Production Technology, Automobile Engineering<br>
 
 ## Work Experience 
 ***
 
-__New York Life Insurance Co.__<br>
-__New York, USA__<br>
-<p class="full-width"><img src="/pic004.jpg" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
+__Novo Nordisk__<br>
+__Bengaluru, India__<br>
+<p class="full-width"><img src="/public/Novo_Nordisk_-_Logo.svg.png" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Machine Learning Engineer Intern(May 2022 - Present)__ <br>
+ __Associate Business Analyst (May 2021 - May 2023)__ <br>
 
-__Project: Mortality Risk Classification Model__
-- Worked on improving model prediction and descriptive reason codes as output for the underwriters and agents incorporating new medical data sources.
-- Built a web application on Domino Data Lab plaform using Web-HDFS API and Dash framework for the model to automate the model validation and to generate reason code analytics.
-- Worked on test generation automation, wrapper and corner case testin for the model.
-- Adapted Model Development Life Cycle (MDLC) for the model releases.
+- Managed filling, formulation, and inspection lines for 343 million insulin cartridges production at China plant
+- Executed supply network planning and capacity planning for 40 insulin products to meet production agreement
+- Facilitated sales and operations planning review with site and markets to mitigate supply risk of $50 million inventory
+- Managed and mentored two supply chain professionals, for procurement and launch planning of insulin products
+- Developed Tableau dashboards for projected stock alert and warehouse capacity, and API simulation file via Alteryx
 
 
-__JP Morgan Chase & Co.__<br>
-__Mumbai, India__<br>
-<p class="full-width"><img src="/public/pic005.jpg" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
+__Diageo__<br>
+__Bengaluru, India__<br>
+<p class="full-width"><img src="/public/Diageo.svg.png" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Associate Software Engineer (Feb 2021 - Aug 2021)__ <br>
+ __Supply and Distribution Planner (Aug 2019 - May 2021)__ <br>
 
- __Software Engineer II (Feb 2020 - Jan 2021)__ <br>
+- Managed finished goods demand-supply and distribution planning for $20 million inventory across Philippines, Vietnam, and Indonesia markets, with imports from the UK and Singapore of 300 alcohol beverages items
+- Collaborated with 7 cross-functional teams in timely execution of innovation, renovation, NPI, and festive projects
+- Standardized Supply planning process and inventory policies across APAC markets
+- Led demand supply review with market and production planners to achieve 98% case fill rate
+- Tracked and improved KPIs such as inventory to sales ratio, on time in full, case fill rate, forecast accuracy
+- Reduced $2.5 million slow moving and obsolete inventory by implementing monthly review process
 
- __Software Engineer (Jul 2018 - Jan 2020)__ <br>
+__ABB__<br>
+__Vadodara, India__<br>
+<p class="full-width"><img src="/public/2560px-ABB_logo.svg.png" style="width:13rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
-- Worked with Quant teams to build dynamic schemas to store calibration outputs of pricing models in Hydra. 
-- Re-designed workflows to incorporate LIBOR to RFR migration of USD/EUR/GBP derivative products.
-- Led a team of developers in a global team hackathon and developed a critical business web application prototype using React.JS and TypeScript, deploying it on the private cloud - GAIA.
-- Onboarded Price Valuation workflows consisting of automated jobs for Fixed Income Finance business in JPMC’s Athena framework saving annually 800+ person-hours. 
-- Automated creation of market data reports for end-users and regulatory operations, and various desks. Provided production support for the live dashboard of automated workflow processes of various businesses.
-- Implemented external vendor data snapping APIs using encrypted connections in a client-server application. 
-- Re-engineered legacy processes by significant design changes and efficient use of computing resources. 
-- Developed a tool for end-users to query trade data and plot informational views using the Enaml framework. 
+ __Operations Planner (Aug 2014 - Aug 2019)__ <br>
+
+- Handled materials management, production planning, and procurement of projects worth of $100 million for product lines of high voltage gas insulated switchgear (GIS) and hybrid switchgear (PASS) in lean manufacturing factory
+- Played an active role in execution of 180 units of GIS and 250 units of PASS meeting 100% on time delivery
+- Provided 12 months rolling material forecast to suppliers to improve material availability and meeting projects’ timeline
+- Tracked and improved KPIs such as inventory turn ratio, on time delivery, through put time, inventory to sales ratio
+- Saved $500k by re-utilization of materials across customer projects in GIS and reduced $50k obsolete inventory
+- Enhanced service levels and optimized working capital through effective inventory management and demand planning
 
 ## Volunteer Work 
 ***
@@ -77,41 +85,33 @@ Conducted training in developers’ community on Advanced Python, AI/ML, Pandas,
 ## Skills 
 ***
 
-__Programming Languages__ 
+__Supply Chain Management__ 
+- Inventory Modeling
+- Demand Forecasting
+- Lean Manufacturing
+- Value Stream Mapping
+- Six Sigma Green Belt
+- Capacity Planning
+- Master Data Management
+- Demand Supply Planning
+
+__ERP - SAP Modules__
+- Advanced Planner and Optimizer (APO)
+- Material Master (MM)
+- Production Planning (PP)
+- Sales and distribution (SD)
+
+__Tools and Languages__
+- Microsoft Suite
+- SQL
+- Power BI
+- Tableau
 - Python
-- Go
-- C/C++
-- Java
-- Javascript
-- Typescript
-- PHP
-- Enaml
-
-__Frameworks__
-- Dash
-- Flask
-- ReactJS
-
-__Libraries and Tools__
-- Pandas
-- NumPy
-- Scikit-Learn
-- HuggingFace
-- PySpark
-- Hadoop
-- Hive
-- PyTorch
-- Tensorflow
-- Keras
-- OpenCV
-- Domino Data lab
-- Containerization and Orchestration (Docker, CI/CD)
-- Linux
-- Cloud Platforms (AWS)
-- Databases & Storage (MySQL, SQLite, Hydra)
+- R
+- Alteryx
 
 ## Awards	
 ***
 
-- 1st place, Most Innovative B. Tech Project Competition of MNIT (2018)
+- Novo Nordisk Way Spirit award for upholding excellent relationships with key stakeholders
 
