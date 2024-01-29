@@ -4,7 +4,7 @@ permalink: /Resume
 title: Resume
 ---
 
-[Download](https://drive.google.com/file/d/17BbkkRoUjyWN23rZqIaV4Jrv9tJNDsw1/view?usp=drive_link){:target="_blank"}
+[Download](https://drive.google.com/file/d/1kLxVUSjQzHid33PM0Ksk8rAnQ0Da5MRI/view?usp=drive_link){:target="_blank"}
 
 ## Education 
 ***
