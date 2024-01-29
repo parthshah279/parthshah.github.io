@@ -13,7 +13,7 @@ __University of Washington, Michael G. Foster School of Business - (2023 - 2024)
 __Seattle, WA__ <br>
 <p class="full-width"><img src="/public/University_of_Washington_seal.png" style="width:7rem;height:7rem" align="left"/></p><br><br><br><br><br>
 
- __Master of Supply Chain Management (MSCM)_<br>
+ __Master of Supply Chain Management (MSCM)__<br>
  
  GPA - __3.8__ /4.0 <br>
  Courses - Strategic Sourcing and Procurement, Forecasting, Inventory Mgt. and Supply Chain Analytics, Negotiations, Data
